@@ -1,4 +1,4 @@
-[toc]
+# WordPress站点升级记录
 
 # 背景
 

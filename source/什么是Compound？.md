@@ -1,4 +1,3 @@
-[TOC]
 
 # 什么是Compound？
 

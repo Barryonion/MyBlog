@@ -1,3 +1,5 @@
+# 为什么以太坊要使用MPT树？
+
 # 什么是MPT?
 
 MPT，即Merkle Patricia Tree，是MerKle Tree和[Patricia Tree](https://en.wikipedia.org/wiki/Radix_tree)的结合体。
